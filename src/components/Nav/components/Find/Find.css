@@ -1,0 +1,9 @@
+.Find_doing{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
+    border-bottom: 1px solid grey;
+    outline: none;
+    color: grey;
+    margin: 10px 4px 4px 0px;
+}

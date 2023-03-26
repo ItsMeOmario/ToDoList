@@ -1,0 +1,26 @@
+.doing{
+    border: 1px solid grey;
+    margin: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    transition: 0.5s;
+}
+p{
+    margin: auto 0;
+}
+.x{
+    color: grey;
+    margin-left: auto;
+    margin-right: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.x:hover{
+    color: rgb(255, 0, 0);
+}
+.doing:hover{
+    height: 70px;
+}
